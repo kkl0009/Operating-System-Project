@@ -1,0 +1,1 @@
+void COMWRITE(void);
